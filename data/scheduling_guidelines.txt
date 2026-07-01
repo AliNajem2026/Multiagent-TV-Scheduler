@@ -1,0 +1,42 @@
+Programming Day Parts:
+
+00:00 - 06:00  Overnight / Late Night
+  - Use archive sports replays and classic matches
+  - Minimise cost — avoid premium live content
+  - 30-60 minute segments acceptable
+  - Repeat programmes from earlier in the day
+
+06:00 - 09:00  Breakfast
+  - Lead with Morning News at 06:00
+  - Follow with Sports Roundup and headlines
+  - Keep segments short (30-60 min)
+
+09:00 - 12:00  Mid-Morning
+  - Documentaries, Sports Science, Magazine shows
+  - Build audience toward afternoon
+  - 60 minute segments
+
+12:00 - 18:00  Afternoon
+  - Sports highlights and analysis
+  - Live sports if available (especially 15:00-18:00)
+  - News update at 12:00 and 16:00
+  - Longer programmes (60-90 min) in late afternoon
+
+18:00 - 23:00  Prime Time
+  - Live sports events first priority
+  - Premium sports analysis after live events
+  - Avoid placing documentaries here unless no live sport
+  - Signature programmes 19:00-22:00
+
+23:00 - 00:00  Late Evening
+  - News wrap and post-match review
+  - Transition to overnight content
+  - 30-60 minute segments
+
+General Rules:
+- Avoid same category more than 3 times consecutively
+- News should appear at 06:00, 12:00, 18:00, and 23:00 minimum
+- Sports analysis should immediately follow live matches
+- Overnight can repeat programmes from earlier in the day
+- High priority content goes in prime time
+- Schedule must cover all 24 hours without gaps

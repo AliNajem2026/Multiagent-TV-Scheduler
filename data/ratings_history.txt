@@ -1,0 +1,27 @@
+Friday 20:00 Football = 1.8M viewers
+Friday 21:00 Football = 1.9M viewers
+Saturday 20:00 Football = 2.1M viewers
+Sunday 20:00 Documentary = 600K viewers
+Prime time sports perform best.
+
+Morning 06:00 News = 300K viewers
+Morning 07:00 News = 400K viewers
+Morning 08:00 Sports Roundup = 350K viewers
+Morning 09:00 Documentary = 280K viewers
+
+Afternoon 12:00 Sports Highlights = 600K viewers
+Afternoon 15:00 Sports Highlights = 700K viewers
+Afternoon 17:00 Live Sport = 1.1M viewers
+Afternoon 18:00 Sports News = 900K viewers
+
+Late Night 23:00 News Wrap = 450K viewers
+Late Night 23:30 Post-Match Show = 500K viewers
+
+Overnight 01:00 Classic Match = 60K viewers
+Overnight 03:00 Sports Rerun = 40K viewers
+Overnight 05:00 Sports Rerun = 55K viewers
+
+Breakfast and afternoon audiences are smaller but consistent.
+Overnight programmes average under 100K viewers.
+Late afternoon live sport builds the largest pre-prime audience.
+Post-match analysis retains 70% of the live sport audience.
