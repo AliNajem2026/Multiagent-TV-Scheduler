@@ -6,7 +6,7 @@ An AI-powered TV scheduling system that uses a pipeline of specialized agents to
 
 ## How It Works
 
-![How it works](assets/Animation.gif)
+(assets/Animation.gif)
 
 ## Architecture
 
